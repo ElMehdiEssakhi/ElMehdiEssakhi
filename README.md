@@ -9,6 +9,22 @@
   🎓 Ingénieur d'État en IA & Sciences des Données (2025–2027)
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white" />
+</p>
+
 ---
 
 ### About me
@@ -16,42 +32,6 @@
 -  Interested in **data pipelines, model training, and AI agents**
 -  Background spans Big Data (Hadoop, Kafka, Airflow), IoT, and full-stack development
 -  Reach me: **elmehdiessakhi17@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-EB0028?style=flat-square)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-4B8BBE?style=flat-square)
-
-**Data Engineering & Big Data**
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=apache-hive&logoColor=black)
-![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SSIS](https://img.shields.io/badge/-SSIS-CC2927?style=flat-square)
-
-**IoT**
-![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![NodeRED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
-
-**Dev & DevOps**
-![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
